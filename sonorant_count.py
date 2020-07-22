@@ -37,6 +37,17 @@ def elan_get_words(dir,eaffile):
 
 	return word_list
 
+def de_espanol(wordlist):
+	with open('espanol.txt', encoding="ISO-8859-1") as f:
+		esp = []
+		for w in f:
+			esp.append(w)
+
+		print('built spanish dictionary')
+	
+		wordlist =  [list(filter(lambda w: w not in esp, wordlist))]
+
+	return wordlist
 
 def main():
 
@@ -55,7 +66,15 @@ def main():
 
 		words = words + elan_get_words(narrative_dir, file)
 
-	print(len(words))
+	print('Total words:', len(words))
+
+	words = de_espanol(words)
+
+	print('Non-borrowings:', len(words))
+
+	with open('uspanteko_words.txt', 'w') as outfile:
+		for w in words:
+			outfile.write(w)
 
 if __name__ == '__main__':
 	main() 
