@@ -1,5 +1,4 @@
 import os
-import csv 
 import xml.etree.ElementTree as ET 
 from timeit import default_timer as timer
 
@@ -15,14 +14,6 @@ def igtxml_get_words(dir,xmlfile):
 		for phrase in root.findall('./body/phrases/phrase'):
 			word_list = word_list + phrase.findall('word')
 
-		word_list = [x.get('text') for x in word_list]
-
-		word_list = [x.lower() for x in word_list]
-
-		word_list = list(filter(lambda w: "<" not in w, word_list))
-
-		word_list = [''.join(list(filter(lambda ch: ch not in " :+.!¡¿?-,<,>,(,),_", x))) for x in word_list]
-
 	return word_list
 
 def elan_get_words(dir,eaffile):
@@ -35,10 +26,6 @@ def elan_get_words(dir,eaffile):
 		for phrase in root.findall("./TIER[@TIER_ID='Transcripción']/ANNOTATION/ALIGNABLE_ANNOTATION/ANNOTATION_VALUE"):
 			for word in phrase.text.split():
 				word_list.append(word.lower())
-
-		word_list = list(filter(lambda w: "<" not in w, word_list))
-
-		word_list = [''.join(list(filter(lambda ch: ch not in " :+.!¡¿?-,<,>,(,),_", x))) for x in word_list]
 
 	return word_list
 
@@ -67,6 +54,24 @@ def main():
 	for file in eaf_files:
 
 		words = words + elan_get_words(narrative_dir, file)
+
+	words = [x.get('text') for x in words]
+
+	words = [x.lower() for x in words]
+
+	words = list(filter(lambda w: "<" not in w, words))
+
+	words = list(filter(lambda w: ">" not in w, words))
+
+	words = [''.join(list(filter(lambda ch: ch not in " :+.!¡¿?-,<,>,(,),_,0,1,2,3,4,5,6,7,8,9,/,\\", x))) for x in words]
+
+	words = [x.replace('ã³', 'ó')]
+
+	words = [x.replace('ã±', 'ñ')]	
+
+	words = [x.replace('ã', 'á')]
+
+	words = [x.replace('pwes', pues)]
 
 	print('Total words:', len(words))
 
