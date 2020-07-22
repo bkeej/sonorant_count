@@ -2,6 +2,7 @@ import os
 import csv 
 import xml.etree.ElementTree as ET 
 
+sonorants = ['l', 'm', 'n', 'w', 'y', 'r']
 
 def igtxml_get_words(dir,xmlfile):
 	with open(dir + xmlfile) as f:
