@@ -2,9 +2,6 @@ import os
 import csv 
 import xml.etree.ElementTree as ET 
 
-narrative_dir = '../../Recordings/2019_narratives/Completed_transcriptions/'
-
-palmer_dir = '../special-eureka/data/uspanteko_corpus_xml/'
 
 def igtxml_get_words(dir,xmlfile):
 	with open(dir + xmlfile) as f:
@@ -33,16 +30,31 @@ def elan_get_words(dir,eaffile):
 			for word in phrase.text.split():
 				word_list.append(word)
 
+		word_list = [''.join(list(filter(lambda ch: ch not in " :+.!¡¿?-,", x))) for x in word_list]
+
+		word_list = list(filter(lambda w: ">" not in w, word_list))
+
 	return word_list
 
-eaffile = "SPK_TAML_2020_Loq'laj teew pach loq'laj q'iij - El viento del norte y el sol.eaf"
-xmlfile = "1.xml"
 
 def main():
 
-	print(elan_get_words(narrative_dir,eaffile))
+	narrative_dir = '../../Recordings/2019_narratives/Completed_transcriptions/'
+	palmer_dir = '../special-eureka/data/uspanteko_corpus_xml/'
+	igxml_files = os.listdir(palmer_dir)
+	eaf_files = [f for f in os.listdir(narrative_dir) if f.endswith('.eaf')]
 
-	print(igtxml_get_words(palmer_dir,xmlfile))
+	words = []
+
+	for file in igxml_files:
+
+		words = words + igtxml_get_words(palmer_dir, file)
+
+	for file in eaf_files:
+
+		words = words + elan_get_words(narrative_dir, file)
+
+	print(len(words))
 
 if __name__ == '__main__':
 	main() 
