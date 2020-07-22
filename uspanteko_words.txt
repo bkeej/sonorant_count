@@ -6,9 +6,6 @@ estayul
 ablante
 idima
 uspanteka
-34
-11
-2004
 bondadosamente
 relatar
 inportacia
@@ -32,7 +29,6 @@ tijb'ij
 taq
 qaqaaj
 qachuuch
-pwes
 toos
 qaqaaj
 qachuuch
@@ -214,7 +210,6 @@ ooj
 ójor
 taq
 tziij
-pwes
 mxaqtb'ka'
 ójor
 taq
@@ -252,7 +247,6 @@ tichkoni'n
 komoo
 tijb'ij
 taq
-pwes
 diyoos
 miyo
 tijb'ij
@@ -306,7 +300,6 @@ marita'
 jcholájl
 tiyolow
 taq
-pwes
 chee'
 nimi'
 nimi'
@@ -392,7 +385,6 @@ taq
 tziij
 toos
 chee'
-pwes
 re
 ri
 ri'
@@ -440,7 +432,6 @@ jb'anik
 rka'
 tanb'ij
 iin
-pwes
 kee
 li
 inportanti'n
@@ -454,7 +445,6 @@ li
 matja'tisach
 chi
 qe
-pwes
 ke
 li
 li
@@ -499,7 +489,6 @@ tijb'ij
 taq
 li
 kastiy
-pwes
 kurason
 muntaño
 che'
@@ -736,7 +725,6 @@ tanb'ij
 iin
 qes
 jcholájl
-pwes
 qaloq'aj
 chee'
 qab'ane'
@@ -748,7 +736,6 @@ ra
 nik'aj
 k'aam
 qalugar
-pwes
 qaloq'aj
 taq
 ra
@@ -852,7 +839,6 @@ qask'une'
 b'anik
 tanb'ij
 iin
-pwes
 li
 lwar
 li
@@ -881,7 +867,6 @@ wiitzili
 ri'
 k'u
 li
-pwes
 taq
 qaqaaj
 qachuuch
@@ -902,7 +887,6 @@ ri'
 li
 tanb'ij
 iin
-pwes
 ke
 tijb'ij
 taqm
@@ -914,7 +898,6 @@ li
 moo
 kristyan
 lori
-pwes
 tijtika'
 rab'ixaq
 cha'
@@ -1004,7 +987,6 @@ wataal
 k'ichelaaj
 tijqasaj
 taq
-pwes
 tijb'ij
 taq
 tijb'ij
@@ -1300,7 +1282,6 @@ jun
 k'otob'
 tqejb'ik
 tb'e
-pwes
 diseke
 tinyol
 ri
@@ -1385,7 +1366,6 @@ chawe
 cha'
 taq
 re
-pwes
 ori
 ma
 kita'
@@ -1432,7 +1412,6 @@ tonse
 ri'
 k'u
 li
-pwes
 tonse
 xpenika
 retzel
@@ -1732,11 +1711,8 @@ juul
 jiri
 jili
 if
-pwes
 tanwil
 iin
-pwes
-pwes
 pajinonli
 tb'ew
 tanwil
@@ -1758,11 +1734,9 @@ tqejb'e
 pijinon
 rii
 ji'n
-pwes
 iin
 tanb'ijin
 qasori
-pwes
 tanb'ijiin
 rejwexki'
 tiye'saj
@@ -1827,7 +1801,6 @@ nen
 mo
 tijb'ij
 likastiy
-pwes
 anibel
 tcha'
 nojel
@@ -1850,7 +1823,6 @@ kastiy
 qes
 tinb'ijin
 lajintzijb'el
-pwes
 qas
 qonojel
 tinmit
@@ -1977,10 +1949,8 @@ q'iij
 porke
 tanwil
 iin
-pwes
 qes
 jcholáj
-pwes
 ooji'
 ka'
 ooj
@@ -2042,7 +2012,6 @@ ook
 lajb'a'aq
 enkamby
 ajchaaltqa'n
-pwes
 tqab'ij
 rechaq
 tqa'n
@@ -2081,7 +2050,6 @@ toos
 toos
 tanb'ij
 iin
-pwes
 komo
 ri'
 li
@@ -2092,7 +2060,6 @@ iin
 porke
 ri'
 chuwajin
-pwes
 ke
 kita'm
 kita'
@@ -2102,7 +2069,6 @@ taq
 ójor
 taq
 tziij
-pwes
 kita'
 q'atub'
 tipetk
@@ -2194,7 +2160,6 @@ taq
 taq
 ra
 wunaqtqa'n
-pwes
 tqaya'
 jno'jaq
 tambyeen
@@ -2236,7 +2201,6 @@ ri'
 li
 chwaj
 iin
-pwes
 toos
 tpew
 q'etub'
@@ -2513,7 +2477,6 @@ ji'
 k'u
 li
 tanb'ijiin
-pwes
 wetjinon
 li
 juntir
@@ -2688,9 +2651,7 @@ qas
 xin
 chomorsaj
 iin
-pwes
 diyoos
-pwes
 iin
 tijb'iji'
 lajinwárj
@@ -2785,14 +2746,12 @@ k'omo
 chawe
 qaqaaj
 keel
-pwes
 xojyolow
 ak'il
 jun
 jun
 q'iij
 ri
-pwes
 iwir
 xojyolow
 ák'l
@@ -2804,7 +2763,6 @@ juntir
 toos
 ri'
 li
-pwes
 tanb'ij
 iin
 qes
@@ -2842,7 +2800,6 @@ tiye'saj
 jq'iij
 chuwaj
 iin
-pwes
 ooj
 titawtina
 b'i
@@ -2856,7 +2813,6 @@ iin
 qes
 tqakoj
 qachoq'w
-pwes
 tz'etaj
 re'
 qonojel
@@ -2894,7 +2850,6 @@ jun
 q'iij
 lojori
 bweno
-pwes
 catarina
 us
 estayul
@@ -2902,8 +2857,6 @@ diesiseis
 sincuenta
 bamos
 agradesiendo
-6515
-12/1/2006
 ifxen
 jun
 wunaq
@@ -3041,12 +2994,10 @@ man
 wunaq
 xtzaq
 jch'ol
-pwes
 chaq
 b'irb'iit
 ji'non
 ri
-despwes
 xpe
 re
 xijb'ij
@@ -3132,7 +3083,6 @@ antons
 xpe
 man
 wunaq
-pwes
 xpe
 man
 kwa'y
@@ -3155,7 +3105,6 @@ tijinter
 q'iij
 tchakun
 chwij
-despwes
 kond
 inyuq
 niri
@@ -3267,7 +3216,6 @@ mas
 inijkoj
 li
 chaak
-despwes
 ta'
 tijtok
 woroon
@@ -3307,7 +3255,6 @@ re
 baay
 xi'
 kib'
-pwes
 lajori
 lajori
 jo'
@@ -3379,7 +3326,6 @@ tinwile'
 tcha'
 re
 jo'
-pwes
 xe'
 taq
 chiriliik
@@ -3602,15 +3548,11 @@ ji'n
 kila'
 qe
 nomas
-532
-28/11/05
 leandro
 chamatun
 aqui
 chipaj
 dia
-26
-2004
 abien
 relatarnos
 okma
@@ -3796,7 +3738,6 @@ a'
 ntons
 tzib'aka'
 li
-pwes
 qak'exe'
 qib'
 xk'ex
@@ -4117,7 +4058,6 @@ re'
 chij
 tijik
 ryalmente
-pwes
 ke
 kom
 re
@@ -4196,7 +4136,6 @@ tijkoj
 jun
 saq'oril
 rik'uli
-pwes
 ke
 re
 oj
@@ -4667,7 +4606,6 @@ wi'
 wi'
 wi'
 istorya
-pwes
 ke
 taljwi'laq
 loke
@@ -4676,7 +4614,6 @@ taq
 ójor
 taq
 qawinaq
-pwes
 ke
 tijkoj
 taq
@@ -4836,7 +4773,6 @@ raj
 jchoq'ab'
 lojori
 tqila'n
-pwes
 ke
 lojori
 ke
@@ -4887,7 +4823,6 @@ qab'antajk
 xaq
 oj
 qe
-pwes
 tqak'am
 jtziijaq
 ójor
@@ -4965,7 +4900,6 @@ ri'
 k'u
 li
 qab'antaj
-pwes
 noj
 nik'
 qe
@@ -4981,7 +4915,6 @@ ri
 ojti
 oj
 kwin
-pwes
 tqak'ex
 qano'j
 qapensar
@@ -4989,17 +4922,12 @@ baay
 li
 juntir
 rii'n
-1102
-2935
 gravación
 chamatun
 pacheco
-22
 alde
 chipaj
 dia
-26
-2004
 ba
 relatar
 elote
@@ -5077,7 +5005,6 @@ chik
 xe'
 chik
 juntir
-despwes
 kabal
 xk'ul
 ra
@@ -5330,7 +5257,6 @@ ke
 lajori
 qatzeke'
 kinaq'
-despwes
 tzekmaj
 kinaq'
 qawi'l
@@ -5346,7 +5272,6 @@ k'u
 maa
 maj
 wunaq
-pwes
 xtzaq
 tzaq
 uxub'
@@ -5571,7 +5496,6 @@ chapik
 jnon
 li
 alayre
-pwes
 baa
 troqtaj
 taq
@@ -5645,8 +5569,6 @@ xk'is
 man
 ral
 istoriya
-524
-17/1/06
 kwand
 xink'uli'k'
 re
@@ -5991,7 +5913,6 @@ k'u
 li
 re
 lojorii
-pwes
 aj
 yo'lkini'ka'
 ri
@@ -6028,7 +5949,7 @@ wi'
 rejewaxik
 [loke
 nen
-teqa/
+teqa
 loke
 nen
 teqab'an]
@@ -7061,7 +6982,7 @@ naji
 xinwa'xi'
 xe'
 k'achee'
-[tze´kiin/petzelkiin]
+[tze´kiinpetzelkiin]
 xe'
 k'achee'
 petzalkiin
@@ -7113,7 +7034,7 @@ re
 qleen
 qe
 [ta'
-k'aayb'/ta'
+k'aayb'ta'
 qak'ye]
 ta
 rajwexik
@@ -7207,7 +7128,7 @@ inche
 re
 dyos
 miiy
-[kche'/
+[kche'
 tche']
 utz
 utz
@@ -7230,7 +7151,6 @@ bay
 xeeli'n
 tziyiin
 tziiy
-\l
 tziyi'n
 xeel
 inb'o'j
@@ -7831,7 +7751,7 @@ b'i
 li
 uqta
 b'i#
-[poe/por
+[poepor
 es]
 tinb'an
 jwers
@@ -8363,7 +8283,6 @@ tijb'ij
 maq
 maq
 wimaam
-pwes
 am
 rechaq
 trajlaj
@@ -9663,7 +9582,7 @@ taq
 kirtyaan
 qatilmiit
 jii'
-[sant/
+[sant
 santil]
 mosiib'
 teqa'n
@@ -10015,11 +9934,8 @@ li
 re
 chamatun
 pacheco
-22
 chipaj
 dia
-26
-2004
 profeción
 ba
 relatar
@@ -10038,7 +9954,6 @@ taq
 qaqaaj
 qachuuch
 ójor
-pwes
 re
 loq'laj
 qalwar
@@ -10113,7 +10028,6 @@ ta'ji'n
 mas
 tijk'ul
 ja'
-despwes
 xijb'ij
 taq
 ke
@@ -10127,7 +10041,6 @@ mas
 ja'
 rex
 ulewi'n
-despwes
 xb'ij
 taq
 ke
@@ -10345,14 +10258,12 @@ tiyempo
 re
 qelk'waal
 mas
-despwes
 ta'
 chki'
 chee'
 ta'
 chki'
 chee'
-despwes
 jwi'l
 li
 xtikmaj
@@ -10435,19 +10346,15 @@ kom
 jun
 istorya
 baa
-pwes
 xaq
 li
 xk'is
-405
-17/1/06nom
+nom
 leandro
 chamatun
 aqui
 chipaj
 dia
-26
-2004
 abien
 relatarnos
 sufrio
@@ -12367,7 +12274,6 @@ tene'
 tch'aw
 chi
 qij
-pwes
 q'oo
 pcha'
 qech'elxik
@@ -12429,7 +12335,6 @@ tzij
 niri
 tqaya'
 kwenta
-pwes
 ke
 kita'
 kita'
@@ -12483,7 +12388,6 @@ li
 ke
 b'enol
 qawi'l
-pwes
 kee
 oj
 ojchakun
@@ -12491,7 +12395,6 @@ juntir
 ri'
 k'u
 li
-pwes
 ke
 ke
 ta'
@@ -12516,8 +12419,6 @@ wunaq
 cha'
 brebe
 uspanteko
-18
-33
 gravación
 leandro
 chamatun
@@ -12525,8 +12426,6 @@ pacheco
 aqui
 chipaj
 uspantán
-27
-2004
 gravación
 acontinuación
 bamos
@@ -12546,7 +12445,6 @@ mañas
 re
 bolber
 ka'n
-despwes
 tb'ee
 tb'ee
 laq
@@ -12560,7 +12458,6 @@ jm
 xaq
 tijk'am
 b'i
-pwes
 ta'
 tijk'am
 b'i
@@ -12578,7 +12475,6 @@ tipet
 bolber
 jun
 koj
-despwes
 tijtoke'
 tra
 benad
@@ -12595,7 +12491,6 @@ troqtaj
 ra
 benad
 cha'
-despwes
 tijchep
 see
 wi'
@@ -12626,16 +12521,12 @@ tijtij
 jun
 koop
 kik'
-despwes
-despwes
 treqach
 man
 benad
 tiyuq
 cha'
-despwes
 titaw
-despwes
 chik
 bolber
 kristyan
@@ -12702,7 +12593,6 @@ chwaj
 iinb'e
 ák'il
 tawen
-pwes
 jo'
 q'iij
 ri
@@ -12754,7 +12644,6 @@ tinb'an
 bolber
 man
 koj
-despwes
 pongam
 tinchepe'
 tra
@@ -12847,7 +12736,6 @@ man
 jun
 chik
 jo'
-pwes
 jaan
 xe'
 taq
@@ -12863,7 +12751,6 @@ cha'
 tqata'
 jun
 awe
-despwes
 awechi'
 aat
 man
@@ -12876,7 +12763,6 @@ ta'
 retam
 naad
 cha'
-despwes
 kabal
 xte'
 taq
@@ -12927,7 +12813,6 @@ moo
 xqej
 taq
 cha'
-despwes
 k'amolch
 man
 benad
@@ -12935,7 +12820,6 @@ jwi'l
 aq
 chij
 qulaq
-despwes
 xuq
 taq
 xen
@@ -13007,7 +12891,6 @@ tzik'
 pobr
 kistyan
 kla'
-despwes
 nemoo
 xpe
 man
@@ -13037,7 +12920,6 @@ chki'
 xen
 bolber
 kistyan
-despwes
 xpet
 xe'
 li
@@ -13049,7 +12931,6 @@ benad
 xk'amch
 man
 kristyan
-despwes
 sipaj
 re
 man
@@ -13278,7 +13159,6 @@ rii
 xqech
 man
 jun
-despwes
 xen
 taq
 amig
@@ -13320,7 +13200,6 @@ xen
 bnolber
 kistyan
 xkamsaj
-despwes
 xtaw
 man
 wunaq
@@ -13379,7 +13258,6 @@ cha'
 tawen
 xk'amch
 cha'
-despwes
 xye'
 kib'
 uxub'
@@ -13391,26 +13269,20 @@ man
 man
 xkan
 rk'an
-despwes
 xpe
 xpe
 li
-despwes
 re
 xen
 jinon
 li
 tokon
-pwes
 re
 tra
 benaa
-pwes
 ji'
 qe
 li
-659
-19/1/06
 gravación
 anastasio
 pinula
@@ -13418,8 +13290,6 @@ chamatun
 aca
 chipaj
 uspantán
-28
-2004
 anastasio
 profeción
 ba
@@ -15849,8 +15719,6 @@ re
 ri'
 li
 tanb'ij
-1851
-25/1/06
 ataq
 wech'elxiik
 tanyol
@@ -16053,7 +15921,6 @@ aa
 ta'
 k'u
 wunaq
-pwes
 ma
 tatik
 awe
@@ -16503,7 +16370,6 @@ raj
 tijtij
 ra
 íchij
-pwes
 kom
 ti'ntz'onaji'
 chawe
@@ -16549,7 +16415,6 @@ chek
 ta'
 tatik
 awee
-pwes
 entons
 aat
 atb'enow
@@ -16717,7 +16582,6 @@ sik'
 wunaq
 ree
 cha'
-pwes
 ta'
 chawaj
 jilon
@@ -16799,7 +16663,6 @@ tanya'
 ral
 ék'el
 chawe
-pwes
 cha'
 ree
 cha'
@@ -18128,31 +17991,23 @@ ra
 aanm
 rik'il
 cha'
-1700
-213
 aqui
-uspantãn
+uspantán
 deparatamento
-quichã©
+quichá©
 dia
-5
-aã±o
-2004
 tum
 ajcot
-62
-aã±os
 gustosamente
 baa
 relatar
 lllamdo
 ho
-ãl
+ál
 chamak
-asosiaciã³n
+asosiación
 okma
 se
-grabaciã³n
 gustosamente
 tum
 ajcot
@@ -18167,7 +18022,7 @@ moo
 xen
 rka'
 kompayre
-ã³jor
+ójor
 rk'i
 rka
 xk'isi'
@@ -18185,7 +18040,7 @@ chiki'
 tikwin
 chij
 resaj
-rãb'ix
+ráb'ix
 laq
 wron
 xk'astaj
@@ -18278,7 +18133,7 @@ cha'
 cha'
 jkompayre
 wi'
-wãkix
+wákix
 wi'
 kerner
 wi'
@@ -18348,7 +18203,7 @@ iin
 ta'
 qelen
 tchakuj
-akãºmb'il
+akáºmb'il
 chuwe
 tcha'
 diyoos
@@ -18357,7 +18212,6 @@ konta'
 tatij
 jun
 asik'
-pwes
 cha'
 re
 cha'
@@ -18435,7 +18289,7 @@ chaq'
 jaa
 chij
 ta'ik
-ã­nchik
+á­nchik
 ch'ekik
 wixiim
 ch'ekik
@@ -18782,7 +18636,6 @@ chich
 xqasaj
 taq
 chik
-pwes
 qasal
 chaq
 eqa'n
@@ -19122,13 +18975,12 @@ tche'
 per
 diske
 iin
-pwes
 jtakil
 tijyol
 taq
 qamaam
 qatiit'
-ã³jor
+ójor
 rka'
 kan
 wiqili'
@@ -19141,7 +18993,7 @@ jwi'l
 xkan
 jb'ij
 re
-rxã³qil
+rxóqil
 kas
 tich'aw
 ranm
@@ -19262,7 +19114,7 @@ xinpetik
 alii
 tcha'
 re
-rxã³qil
+rxóqil
 cha'
 xim
 rka'
@@ -19300,7 +19152,7 @@ ri
 xinte'ch'
 cha'
 re
-rxã³qil
+rxóqil
 cha'
 per
 ta'
@@ -19417,9 +19269,9 @@ ri'
 ri
 jun
 raqa
-qakãºtz'ij
+qakáºtz'ij
 tqaya'
-xawãqan
+xawáqan
 aq'wq
 *krajne'
 aatmer*
@@ -19675,7 +19527,7 @@ xloq'
 ulew
 cha'
 xloq'
-wãkix
+wákix
 cha'
 xloq'
 kwa'y
@@ -19754,7 +19606,7 @@ xok
 chij
 ch'ab'ej
 jkompayir
-cha'\l
+cha'l
 se
 se
 ketal
@@ -19857,7 +19709,7 @@ tatij
 jun
 ra
 kitz
-akãºmb'il
+akáºmb'il
 uk'il
 tcha'
 re
@@ -20164,7 +20016,6 @@ ak'l
 jit
 chuwaj
 iin
-pwes
 xinb'ij
 iin
 jwanm
@@ -21405,7 +21256,7 @@ ajri'
 xatpe
 ljori
 tcha'
-rxã³qil
+rxóqil
 re
 komar
 rik
@@ -21454,7 +21305,7 @@ tkan
 itz'apij
 cha'
 re
-rxã³qil
+rxóqil
 anyo's
 yunabes
 k'u
@@ -21468,7 +21319,7 @@ na
 wi'
 agan
 tcha'
-rxã³qil
+rxóqil
 re
 ji'n
 jikulon
@@ -21502,7 +21353,7 @@ tons
 tzii
 at'elk
 tche'
-rxã³qil
+rxóqil
 re
 ji'n
 oombr
@@ -21519,7 +21370,7 @@ tinb'an
 xinsek'sajich'
 tcha'
 re
-rxã³qil
+rxóqil
 xatsek'saji'n
 per
 maa
@@ -21536,7 +21387,7 @@ moo
 tinb'an
 tcha'
 re
-rxã³qil
+rxóqil
 a'
 resaj
 rtz'iq
@@ -21561,7 +21412,7 @@ lomism
 b'ane'
 xukertqa'n
 pech
-rxã³qil
+rxóqil
 cha'
 xkojja'
 jkandelaq
@@ -21693,7 +21544,7 @@ xqata
 jtakil
 oj
 puwes
-ã³jor
+ójor
 taq
 tzij
 jnon
@@ -21734,7 +21585,7 @@ wi'
 qaqil
 qamaam
 qatit'
-ã³jor
+ójor
 qa
 wi'
 tijkoj
@@ -21773,16 +21624,12 @@ lori
 rka'
 listory
 may
-3210
 estan
 k'iche'
-seã±alado
 pinula
 aqui
 chipaj
 uspantán
-27
-2004
 uspantán
 recide
 relatarnos
@@ -22487,7 +22334,6 @@ yaq
 usiliyar
 laj
 despach
-pwes
 neen
 taj
 ooj
@@ -22528,7 +22374,6 @@ taq
 entons
 xiij
 matey
-pwes
 ta'an
 taq
 toq'ob'
@@ -22655,7 +22500,6 @@ iin
 tobiy
 xqab'anaa
 per
-despwes
 kistyan
 wi'
 chaq
@@ -23292,7 +23136,6 @@ loke
 qakapasida
 laj
 qaldeya
-pwes
 ri'
 li
 xqa'an
@@ -23580,7 +23423,6 @@ chuk'
 tijyol
 taq
 mir
-pwes
 qatija'
 jun
 ra
@@ -23607,7 +23449,6 @@ k'omo
 chawe
 qaaj
 toor
-2043
 parentesis
 k'iche'
 chipaj
@@ -23617,26 +23458,17 @@ vasquez
 pinula
 aca
 chipaj
-pequeã±a
 baa
 jovensita
-1415
 aca
-20
-aãF±o
-2004
-46
-aã±os
 maya
 hablante
 uspanteka
 demas
-grabaciã³n
 uspanteko
 como
 dijeramos
 chipaj
-grabaciã³n
 corespondiente
 dia
 biyeen
@@ -23644,7 +23476,7 @@ lina
 loq'
 chaq
 tayol
-ayã³lj
+ayólj
 lojori
 tqab'an
 kuy
@@ -23656,10 +23488,10 @@ kib'
 oxib'
 tziij
 chib'
-ãnm
+ánm
 loke
 xq'apojirch
-ã³jr
+ójr
 chuch
 jqaaj
 chuch
@@ -23669,7 +23501,7 @@ chuch
 jchuuch
 lok
 xan
-ã³jer
+ójer
 tain
 ika'
 peet
@@ -23730,7 +23562,7 @@ jaan
 tche'
 mre
 q'apoj
-ãnm
+ánm
 aq'ab'
 tb'iit
 aq'ab'
@@ -23772,7 +23604,7 @@ q'ooq'
 jor
 tiki'koot
 mre
-ãnm
+ánm
 tyuqi'
 li
 jqaaj
@@ -23784,7 +23616,6 @@ juntiir
 xna'
 serbiir
 jqaaj
-despwes
 li
 saqar
 chi'
@@ -23817,7 +23648,7 @@ chaak
 jaan
 iftche'
 mre
-ãnm
+ánm
 xoki'
 li
 jor
@@ -23845,7 +23676,7 @@ chik
 joor
 tki'koot
 re
-ãnm
+ánm
 wi'
 jsii'
 re
@@ -23859,13 +23690,12 @@ tzekb're
 re
 jtzako'n
 antoses
-despwes
 li
 mjoor
 tzii
 xan
 mre
-ãnm
+ánm
 mjoor
 tki'koot
 kondo
@@ -23914,7 +23744,7 @@ tyuuq
 jaan
 tche'
 re
-ãnm
+ánm
 xch'aja'
 ra
 jtzi
@@ -23937,7 +23767,7 @@ ki'kotem
 wiw
 ranm
 ra
-ãnm
+ánm
 ke
 jqaaj
 mjoor
@@ -23956,12 +23786,11 @@ kla'
 k'u
 li
 mre
-ãnm
+ánm
 tiki'koot
 jpech
 jchuuch
 bay
-despwes
 li
 kwando
 kwando
@@ -23975,11 +23804,11 @@ tosos
 xtok
 jun
 xtok
-ãnm
+ánm
 atoso
 kwando
 xtok
-ãnm
+ánm
 dyunabes
 mas
 xan
@@ -24011,7 +23840,7 @@ ta'chi'
 keko'temaal
 wi'
 mre
-ãnm
+ánm
 ke
 jwi'l
 man
@@ -24030,7 +23859,7 @@ ta'
 chiki'
 bale
 mre
-ãnm
+ánm
 antose
 kla'
 k'u
@@ -24039,11 +23868,11 @@ mas
 xen
 desesperaar
 ra
-ãnm
+ánm
 mas
 xb'isoon
-mãra
-ãnm
+mára
+ánm
 porke
 ta'chi'
 tzi
@@ -24087,7 +23916,7 @@ kas
 re
 man
 man
-awãlb'aq
+awálb'aq
 ri'
 aat
 awetaami'n
@@ -24104,7 +23933,7 @@ re
 jaan
 tche'
 mre
-ãnm
+ánm
 kewlaj
 taq
 xi'
@@ -24113,7 +23942,7 @@ xe'
 witz
 mariita'
 tkub'ar
-awãnm
+awánm
 chib'
 man
 alib'xeel
@@ -24131,11 +23960,11 @@ ajsik
 jaan
 tche'
 re
-ãnm
+ánm
 xoki'
 li
 re
-ãnm
+ánm
 chijch'ajiik
 re
 jtzi
@@ -24160,7 +23989,6 @@ jun
 kukub'
 tzee
 bay
-despwes
 li
 chaqmaj
 jun
@@ -24187,7 +24015,7 @@ li
 tril
 tijiin
 rel
-ãnm
+ánm
 xchaqmaji'
 jun
 kukub'
@@ -24214,12 +24042,12 @@ jkaa'
 ralaaj
 jq'oor
 mre
-ãnm
+ánm
 bay
 xpek'u
 retzel
 mere
-ãnm
+ánm
 kita'
 lugaar
 ta
@@ -24230,7 +24058,7 @@ inq'oor
 porke
 iin
 ch'ajch'aan
-inchapã³n
+inchapón
 tche'
 re
 q'apooj
@@ -24246,12 +24074,12 @@ jq'oor
 xpek'u
 retzel
 mre
-ãnm
-tixã­qe
+ánm
+tixá­qe
 b'i
 jun
 paak'
-upã©'ml
+upá©'ml
 la'
 jkayb'al
 man
@@ -24267,7 +24095,7 @@ chij
 b'aa
 mre
 q'apooj
-ãnm
+ánm
 antoses
 xantaj
 li
@@ -24295,7 +24123,7 @@ achak
 ri
 apen
 ataq
-chepowã­b'
+chepowá­b'
 apenaq
 makata'
 apenaq
@@ -24323,17 +24151,17 @@ chaaki
 tetijin
 taq
 koj
-achã³q'b'aq
+achóq'b'aq
 xi'
 q'iij
 jaan
 che'
 re
-ãnm
+ánm
 xok
 oq'eej
 mre
-ãnm
+ánm
 ke
 jwi'l
 man
@@ -24347,7 +24175,7 @@ xkoj
 b'i
 jwaa
 mre
-ãnm
+ánm
 ruk'
 taq
 oq'eej
@@ -24356,7 +24184,7 @@ b'ik
 antons
 xpe
 mre
-ãnm
+ánm
 kom
 wi'
 chki'
@@ -24364,7 +24192,7 @@ jun
 retz
 nab'eaal
 koj
-achã³q'b'
+achóq'b'
 oom
 inat'owe'
 chij
@@ -24392,7 +24220,7 @@ jaan
 tcha'
 mre
 retz
-xyut'ã³noq
+xyut'ónoq
 bay
 kwand
 ril
@@ -24428,7 +24256,7 @@ kond
 riil
 jchuuch
 mre
-ãnm
+ánm
 jiloon
 li
 xpeet
@@ -24457,7 +24285,7 @@ almwers
 xantaj
 li
 man
-ãnm
+ánm
 kub'uli'
 chi'
 ch'aat
@@ -24495,7 +24323,7 @@ waa
 peen
 xe'
 rel
-ãnm
+ánm
 trelaaj
 xijye'
 kub'lujuuj
@@ -24504,7 +24332,7 @@ tuooq'
 oq'eej
 jwiich
 mre
-ãnm
+ánm
 xtaaw
 chaak
 kond
@@ -24525,7 +24353,7 @@ taq
 waa
 che'
 mre
-ãnm
+ánm
 neen
 cheek
 awk'aan
@@ -24533,7 +24361,7 @@ xatpeetk
 miij
 ji'n
 wk'aan
-xintãqch
+xintáqch
 innaan
 âta'
 xpee
@@ -24541,7 +24369,7 @@ chuuch
 tche'
 jqaaj
 re
-ãnm
+ánm
 keta'
 xpee
 inchuuch
@@ -24576,7 +24404,7 @@ wunaq
 ke
 kita'
 xtaaw
-rexã³ql
+rexóql
 ke
 xaq
 re
@@ -24586,17 +24414,16 @@ chij
 ye'iik
 waa
 bay
-despwes
 li
 pee
 mre
-ãnm
+ánm
 xk'am
 juraj
 paak'
 xook
 chej
-resãjk
+resájk
 re
 re
 riikaq
@@ -24616,7 +24443,7 @@ xtaw
 roxoqol
 xaq
 mre
-ãnm
+ánm
 oq'eej
 jwiich
 xtaaw
@@ -24654,7 +24481,7 @@ twilin
 che'
 jqaaj
 re
-ãnm
+ánm
 taat
 inkita'
 inb'isoon
@@ -24663,13 +24490,13 @@ petzelkiin
 ralaaj
 awaq
 re
-ãnm
+ánm
 ta'n
 miijaa
 tijawb'an
 jaan
 re
-ãnm
+ánm
 xwi'n
 xk'is
 jsobre
@@ -24688,7 +24515,7 @@ peer
 joor
 tib'isoon
 re
-ãnm
+ánm
 etons
 jqaaj
 rila'n
@@ -24735,7 +24562,7 @@ jun
 b'o'j
 qab'och'b'o'l
 re
-qasã­neer
+qasá­neer
 re
 jrab'iin
 k'am
@@ -24788,13 +24615,13 @@ chawe
 miij
 mjoor
 galan
-ã­chij
+á­chij
 inche'
 chawe
 ji'
 taat
 galaan
-ã­chij
+á­chij
 taat
 iyk'u
 li
@@ -24830,11 +24657,11 @@ kwand
 xyuq
 b'isoon
 mre
-ãnm
+ánm
 k'amolch
 jun
 chikech
-ã­chij
+á­chij
 k'amol
 jun
 seb'laaj
@@ -24842,7 +24669,7 @@ xaaq
 ab'iix
 chib'
 re
-jchã­kch
+jchá­kch
 mas
 re
 jb'o'j
@@ -24859,7 +24686,7 @@ jwaa
 aal
 riqa'n
 re
-ãnm
+ánm
 xqeejch
 bay
 kwand
@@ -24880,9 +24707,9 @@ wetz
 chiki'
 xe'
 man
-ãnm
+ánm
 man
-ãnm
+ánm
 xi'n
 muk'u
 ch'ojniik
@@ -24891,14 +24718,14 @@ chi
 rchooch
 per
 man
-ãnm
+ánm
 xii'n
 â
 tz'eet
 tab'iij
 xi'
 man
-ãnm
+ánm
 xii'n
 âay
 b'i
@@ -24908,7 +24735,7 @@ inwetami'
 lamaas
 wi'
 man
-ãnm
+ánm
 li
 wetami'
 mas
@@ -24928,7 +24755,7 @@ porke
 porke
 kita'
 chiki'
-rexã³ql
+rexóql
 man
 qawetz'
 jaan
@@ -24936,10 +24763,10 @@ che'
 xe'
 jol
 re
-ãnm
+ánm
 xtaaw
 re
-ãnm
+ánm
 rik'i
 jtiit'
 b'an
@@ -24947,15 +24774,15 @@ jun
 toq'ob'
 chwe
 tiit'
-âmokã³nta'
+âmokónta'
 xawil
-mokã³nta'
+mokónta'
 xq'aax
 man
-ãnm
+ánm
 xq'aaxi'n
 miij
-xnã
+xná
 b'i
 jun
 kiitz
@@ -24986,7 +24813,7 @@ xi'n
 xe'w
 tiit'
 xii'n
-mjã
+mjá
 b'i
 b'ee
 xii'
@@ -24994,7 +24821,7 @@ nemb'ee
 jaan
 che'
 re
-ãnm
+ánm
 xe'
 jol
 xi'rile'
@@ -25008,14 +24835,14 @@ xte'
 na
 man
 alib'xeel
-nã­k'ej
+ná­k'ej
 b'ee
 man
 alib'xeel
 tetaaw
 xpee
 re
-ãnm
+ánm
 xiij
 re
 lajori
@@ -25066,7 +24893,7 @@ at
 tokoon
 aat
 ati'
-atelmãj
+atelmáj
 tche'
 re
 if
@@ -25104,7 +24931,7 @@ rik'i
 inchuuch
 tche'
 man
-ãnm
+ánm
 kita'n
 ombre
 xpeet
@@ -25112,13 +24939,13 @@ man
 alib'xeel
 molkochiij
 mre
-ãnm
+ánm
 li
 b'ee
 xpee
 k'u
 mre
-ãnm
+ánm
 juwi'l
 ritzel
 xt'oj
@@ -25144,7 +24971,7 @@ re
 xch'eleej
 mare
 ek'el
-xelmãjch
+xelmájch
 xk'amch
 mare
 ek'el
@@ -25177,14 +25004,14 @@ re
 xii'n
 tril
 mre
-ãnm
+ánm
 chi
 mketa'
 xq'ajch
 xq'aj
 chik
 mre
-ãnm
+ánm
 chik
 iqal
 ek'el
@@ -25193,7 +25020,7 @@ mjoor
 loke
 xan
 mre
-ãnm
+ánm
 xijye'
 chi
 rchooch
@@ -25202,7 +25029,7 @@ man
 xtaaw
 xtaaw
 mre
-ãnm
+ánm
 man
 alib'xeel
 kub'ul
@@ -25213,7 +25040,7 @@ rik'i
 chuuch
 ril
 mre
-ãnm
+ánm
 ke
 xi'
 q'iij
@@ -25240,13 +25067,12 @@ mjor
 oq'eej
 jwiich
 re
-ãnm
+ánm
 pyor
 ke
 man
 alib'xeel
 xii'n
-despwes
 richaq
 tijtaaw
 re
@@ -25263,21 +25089,21 @@ re
 xintaqej
 b'i
 man
-awãlb'
+awálb'
 rititamb'ijin
 tq'ajch
 man
-awãlb'
+awálb'
 peer
 man
-awãlb'
+awálb'
 naad
 kita'
 xq'ajch
 puur
 q'asal
 man
-awãlb'
+awálb'
 nana
 jinon
 ri
@@ -25307,14 +25133,14 @@ jwi'l
 jsaq'oriil
 che'
 mrel
-ãnm
+ánm
 re
 chuuch
 ta'n
 miij
 b'ona
 man
-ãnm
+ánm
 na
 miij
 ri
@@ -25339,7 +25165,7 @@ kree
 ke
 ma
 rita'
-ãnm
+ánm
 li
 raaj
 per
@@ -25363,7 +25189,7 @@ chaq
 tche'
 jchuuch
 mre
-ãnm
+ánm
 re
 or
 lojori
@@ -25408,9 +25234,9 @@ miij
 peer
 jo'
 qakoje'
-qachã³q'b'
+qachóq'b'
 miij
-tzeqãti'
+tzeqáti'
 ri
 ojtaaw
 che'
@@ -25455,7 +25281,7 @@ re
 retz
 xintzaka'n
 koj
-achã³q'b'aq
+achóq'b'aq
 porke
 tpee
 aqaajaq
@@ -25463,9 +25289,9 @@ tche'
 jaan
 tche'
 xkoj
-jchã³q'b'
+jchóq'b'
 xkoj
-jchã³q'b'
+jchóq'b'
 re
 jb'aniik
 man
@@ -25480,7 +25306,7 @@ petzeli'
 retzel
 tril
 ta'chiki'
-rixã³ql
+rixóql
 xkoj
 jchoq'b'aq
 bay
@@ -25528,9 +25354,9 @@ xij
 re
 tij
 waa
-matb'isã³nk
+matb'isónk
 âruk'
-awãlb'
+awálb'
 naan
 che'
 re
@@ -25539,18 +25365,18 @@ at
 awetaami'
 jno'j
 man
-awxã³q'l
+awxóq'l
 ji
 qe
 re
 li
-xentãj
+xentáj
 chiki
 b'i
 rchooch
 jaan
 xi'chiki'
-awãlb'
+awálb'
 che'
 rechejiil
 rka'
@@ -25564,7 +25390,6 @@ rayb'l
 xaye'
 re
 ak'ajool
-pwes
 ri'
 li
 ri'
@@ -25577,7 +25402,7 @@ laj
 wchooch
 ilb'aaka'
 li
-xelmãji
+xelmáji
 b'ik
 xi'
 chiki'
@@ -25586,15 +25411,15 @@ rchooch
 b'onaq
 oombr
 ketaan
-ãnm
+ánm
 b'onaq
 b'onaq
-ãnm
+ánm
 tene'
 ma
 wi'
 jweert
-ãnm
+ánm
 b'i
 injek'e'
 chich
@@ -25627,14 +25452,14 @@ kaaj
 serbes
 xok
 chej
-q'ab'arsãjk
+q'ab'arsájk
 man
 wunaq
 loke
-tb'isã³nk
+tb'isónk
 ke
 xe'
-rexã³qol
+rexóqol
 bay
 xtijmaj
 man
@@ -25644,7 +25469,7 @@ xq'ab'arsaj
 jqaaj
 mre
 q'apooj
-ãnm
+ánm
 q'ab'ar
 re
 q'apooj
@@ -25652,20 +25477,20 @@ q'ab'ar
 jqaaj
 mre
 q'apooj
-ãnm
+ánm
 per
 man
 k'ojool
 ri'
 q'apooj
-ãnmi'
+ánmi'
 tij
 rayej
 mre
 q'apooj
 mre
 q'apooj
-ãnm
+ánm
 komo
 ke
 xi'
@@ -25687,13 +25512,13 @@ q'ab'arsajk
 taq
 bay
 q'ab'arsaj
-jb'ãlk
+jb'álk
 xq'ab'arsaj
 man
 wunaq
 loke
 xe'
-rixã³ql
+rixóql
 kita'
 at
 b'isoon
@@ -25708,7 +25533,7 @@ li
 tib'i
 ajek'e'ch
 man
-awixã³qol
+awixóqol
 xaq
 lojori
 mat
@@ -25728,14 +25553,14 @@ t'oq'
 tb'isoon
 pork
 xi'
-rixã³qol
+rixóqol
 chweq'
 t'i'ame'
-awxã³qil
+awxóqil
 oom
 chweeq'
 t'i'ame'
-awxã³qil
+awxóqil
 mat
 b'isoon
 tche'
@@ -25753,7 +25578,7 @@ kom
 ri'
 re
 q'apooj
-ãnm
+ánm
 raaj
 bay
 antaj
@@ -25770,7 +25595,7 @@ xeek'
 xe'
 jmeech'
 man
-roxã³qil
+roxóqil
 jo'
 ombr
 nen
@@ -25805,7 +25630,7 @@ xaq
 re
 wanab'
 oj
-tzuqãºw
+tzuqáºw
 jinon
 li
 k'ur
@@ -25822,8 +25647,8 @@ aal
 rikra'n
 xe'
 ye'
-qãw
-ã­wir
+qáw
+á­wir
 ruk'
 aat
 kita'
@@ -25832,13 +25657,13 @@ waat
 che'
 re
 man
-rxã³qil
+rxóqil
 no'
 kita'
 chiki'
 inb'eek
 porke
-ã­lb'aka'
+á­lb'aka'
 ri
 titaq
 maq
@@ -25890,7 +25715,7 @@ atchapoon
 tche'
 re
 man
-rxã³qil
+rxóqil
 xook
 chij
 b'aniik
@@ -25902,7 +25727,7 @@ rechijiil
 bay
 xantaj
 li
-tzipãka'
+tzipáka'
 li
 inb'i'n
 peer
@@ -25958,13 +25783,13 @@ ri'jtqa'n
 xaq
 li
 jun
-ãnm
+ánm
 li
 tk'uli'
 taq
 porke
 retaamchaq
-tchapã³n
+tchapón
 taq
 mkita'
 tib'i
@@ -25978,7 +25803,7 @@ tijtz'iil
 tche'
 re
 man
-rexã³qle
+rexóqle
 per
 ri
 chwaaj
@@ -25994,7 +25819,7 @@ mkita'
 chi'
 chwaaj
 inb'e
-ãk'l
+ák'l
 porke
 nen
 kyeq
@@ -26055,15 +25880,15 @@ rechejiil
 oombre
 nesye
 re
-rãnm
+ránm
 chaq
 tijk'amch
 man
-rxã³qil
+rxóqil
 per
 ri'
 man
-rxã³qil
+rxóqil
 mkita'
 chi'
 raj
@@ -26083,7 +25908,7 @@ xkuwini'
 chij
 k'amiik
 man
-rxã³qil
+rxóqil
 kwand
 xyuuq
 mjoor
@@ -26093,11 +25918,11 @@ jk'a'nuul
 re
 mre
 q'apooj
-ãnm
+ánm
 porke
 mre
 q'apooj
-ãnm
+ánm
 wi'
 koon
 xyuuq
@@ -26111,7 +25936,7 @@ qe
 xye'
 mre
 q'apooj
-ãnm
+ánm
 jaan
 medya
 bes
@@ -26131,7 +25956,7 @@ re
 man
 alib'xeel
 mjoor
-tzipãka'
+tzipáka'
 ri
 b'eek
 kan
@@ -26142,14 +25967,14 @@ inye'
 inchuuch
 inb'ii'n
 inb'i'
-ãk'l
+ák'l
 per
 aat
 ta'an
 utziil
 chwe
 inb'i'
-ãk'l
+ák'l
 pork
 iin
 mkita'
@@ -26194,7 +26019,7 @@ peen
 rik'i
 inqaaj
 wi'
-ã­nw
+á­nw
 wi'
 juntiir
 majwi'lta
@@ -26210,12 +26035,12 @@ jo'
 ba
 jinon
 li
-xkuwã­ni
+xkuwá­ni
 b'ik
 chij
 k'amiik
 mre
-ãnm
+ánm
 per
 nen
 kyeq
@@ -26237,7 +26062,7 @@ jqaaj
 xkaan
 b'isoon
 jchuuch
-lãstim
+lástim
 inrab'iin
 xii'n
 k'uli'
@@ -26248,7 +26073,7 @@ chawe
 komo
 jwi'li'
 man
-awãlb'
+awálb'
 xaye'
 re
 k'ajool
@@ -26263,7 +26088,7 @@ xe'
 wuk'laal
 tche'
 poowr
-ãnm
+ánm
 pork
 rek'laal
 mre
@@ -26288,7 +26113,7 @@ na
 lak'u
 xe'w
 inrab'iin
-lã
+lá
 tk'umas
 xe'w
 rab'iin
@@ -26304,7 +26129,7 @@ re
 k'ajool
 koon
 xe'
-rxã³qil
+rxóqil
 kla'i'
 li
 xe'
@@ -26320,7 +26145,7 @@ xe'w
 tche'
 jchuuch
 mre
-ãnm
+ánm
 tb'isoon
 jqaaj
 lastm
@@ -26336,7 +26161,7 @@ ri
 rab'iin
 li
 qas
-intzãºquw
+intzáºquw
 ri'
 inrab'iin
 li
@@ -26366,7 +26191,7 @@ tachi'
 welk'uwaal
 k'omwaaj
 chuch
-awãlb'
+awálb'
 k'omwaaj
 chuch
 no'j
@@ -26393,7 +26218,7 @@ nen
 kyeq
 jwi'l
 man
-awãlb'
+awálb'
 jwi'l
 man
 alib'xeel
@@ -26401,16 +26226,15 @@ xe'
 wuk'laal
 che'
 powr
-ãnm
+ánm
 xkan
 b'iis
-despwes
 li
 xkaan
 taq
 b'iis
 re
-ãnm
+ánm
 xi'
 laq
 jaa
@@ -26419,11 +26243,11 @@ kiib'
 q'iij
 jb'iik
 mre
-ãnm
+ánm
 laq
 jaa
 qaaj
-tijolã­n
+tijolá­n
 bay
 xantaj
 b'ik
@@ -26455,7 +26279,7 @@ tche'
 re
 jqaaj
 mre
-ãnm
+ánm
 xtaaw
 k'omo
 chawe
@@ -26493,7 +26317,7 @@ kla'i'n
 jaan
 chweeq'
 ojyuq
-ãk'l
+ák'l
 chweeq'
 tyuqaa
 chweeq'
@@ -26502,7 +26326,7 @@ qak'ute'
 qiib'
 pork
 mre
-ãnm
+ánm
 laj
 qochoochaq
 wi'w
@@ -26518,7 +26342,7 @@ trik'aaj
 jchuuch
 jqaaj
 mre
-ãnm
+ánm
 ke
 xik'ame'ch
 tche'
@@ -26623,7 +26447,7 @@ xkoj
 chik
 rib'
 jun
-ãnm
+ánm
 chi
 jxo'laq
 maldiit
@@ -26633,7 +26457,7 @@ xkoja'
 chiki'
 rib'
 jun
-ãnm
+ánm
 ta'
 xloq'aj
 inrab'iin
@@ -26680,7 +26504,7 @@ k'ysaj
 tche'
 jqaaj
 mre
-ãnm
+ánm
 bay
 ji
 k'u
@@ -26698,7 +26522,7 @@ wunaq
 chik
 xkanye'
 mre
-ãnm
+ánm
 xk'am
 chik
 juun
@@ -26708,17 +26532,17 @@ jun
 chik
 man
 jkab'
-ãnm
+ánm
 ta'
 tzii
 riliik
 man
-ãnm
+ánm
 ta'
 tzi
 tran
 man
-ãnm
+ánm
 ta'
 tkojon
 ta'
@@ -26731,7 +26555,7 @@ xan
 rek'i
 rek'i
 nab'ee
-rxã³qil
+rxóqil
 bay
 kla'
 k'u'li
@@ -26767,8 +26591,8 @@ li
 tran
 taq
 mas
-qã­jil
-qatz'ãqt
+qá­jil
+qatz'áqt
 porke
 moketa'
 tzi
@@ -26795,7 +26619,7 @@ jcholajlaq
 nen
 kyeq
 rek'il
-tek'uli'tãw
+tek'uli'táw
 tenril
 taq
 jcholajil
@@ -26897,8 +26721,6 @@ qui
 chipaj
 uspantán
 dia
-27
-2004
 leandro
 tum
 pacheco
@@ -26932,12 +26754,10 @@ baay
 man
 komadr
 rik
-pwes
 tijya'
 nimal
 ke
 rik
-pwes
 man
 kompadr
 pobr
@@ -26990,7 +26810,6 @@ tawen
 cha'
 re
 cha'
-despwes
 xe'j
 xe'
 maj
@@ -27185,7 +27004,6 @@ xk'am
 b'ik
 xk'ol
 cha'
-despwes
 nik'
 xkan
 xwer
@@ -27202,11 +27020,9 @@ q'aaq'
 ji'non
 ri
 cha'
-despwes
 xpe
 maq
 komersiyante
-despwes
 komo
 dyees
 xwer
@@ -27361,7 +27177,6 @@ dispwees
 xij
 xwa'x
 kla'
-despwes
 saqer
 xpe
 maq
@@ -27389,13 +27204,11 @@ tcha'
 xpetzch
 maq
 kwa'y
-despwes
 xpetzmajch
 maq
 kwa'y
 jwi'l
 xpetzmaj
-despwes
 xij
 xt'ojch
 itz'iq
@@ -27502,7 +27315,6 @@ cha'
 kla'
 wi'
 merka
-despwes
 kond
 kita'
 tk'am
@@ -27525,8 +27337,6 @@ trik'aj
 wi'
 kila'
 cha'
-despwes
-despwes
 xuq
 cha'
 xpet
@@ -27552,7 +27362,6 @@ kwan
 xintaw
 xaq
 xinsuj
-pwes
 ke
 weyin
 iin
@@ -27609,18 +27418,12 @@ xtoj
 maq
 kwa'y
 juntir
-despwes
 xij
-despwes
 kla'
 xk'is
-pwes
-537
-22/11/05
 gravación
 chamatun
 pacheco
-22
 chpaj
 ba
 relatar
@@ -27628,8 +27431,6 @@ okma
 se
 gravación
 dia
-26
-2004
 compañia
 chamatun
 pacheco
@@ -27668,7 +27469,6 @@ re
 qayólij
 qatra
 kiyej
-despwes
 re
 ra
 ra
@@ -27809,7 +27609,7 @@ re
 cha'
 nemoo
 k'u
-apwes
+apues
 chawaj
 tab'an
 aat
@@ -27859,13 +27659,13 @@ ke
 inatij
 tqane'
 jun
-apwest
+apuest
 cha'
 re
 cha'
 neen
 k'u
-apwest
+apuest
 chawaj
 aat
 cha'
@@ -27901,7 +27701,6 @@ cha'
 cha'
 baa
 estaabiyen
-pwes
 cha'
 cha'
 lajori
@@ -27916,7 +27715,7 @@ noose
 ke
 tinb'ij
 tinya'
-respwest
+respuest
 chawe
 estabiyeen
 xpe
@@ -27978,7 +27777,6 @@ re
 cha'
 baa
 estabyeen
-pwes
 lajori
 iin
 konforme
@@ -28072,7 +27870,6 @@ cha'
 cha'
 b'aa
 estabyeen
-pwes
 cha'
 maq
 nii'j
@@ -28196,7 +27993,6 @@ list
 tink'we'
 na
 wib'
-despwes
 atij
 noo
 xin
@@ -28226,7 +28022,6 @@ re
 cha'
 baa
 estabyeen
-pwes
 cha'saj
 re
 lajori
@@ -28457,7 +28252,6 @@ taq
 tra
 ixpaqar
 cha'
-pwes
 kabalmente
 xkwintqa'
 tra
@@ -28485,16 +28279,11 @@ lajori
 xk'isi'
 ral
 istorya
-656
-23/11/05
 gravación
 rosaura
 aca
 chicaman
 dia
-28
-2004
-29
 como
 profeción
 abien
@@ -28504,9 +28293,7 @@ se
 gravación
 if
 bweno
-pwes
 tinyol
-pwes
 loke
 nmoo
 oj
@@ -28540,7 +28327,6 @@ jun
 ka'
 chirij
 chik
-despwes
 tb'entaaj
 li
 qamol
@@ -28559,7 +28345,6 @@ tlejmaj
 qawa
 li
 bay
-despwes
 tb'it
 wunaq
 li
@@ -28571,7 +28356,6 @@ li
 tib'e
 li
 chaak
-despwes
 oj
 kan
 chik
@@ -28594,7 +28378,6 @@ chik
 re
 qadesayun
 li
-despwes
 qamaj
 chik
 jb'anik
@@ -28625,7 +28408,7 @@ kib'
 qach'ojnik
 b'antaj
 qach'ojnik
-dispwes
+dispues
 wi'
 qapoop
 tqab'an
@@ -28671,7 +28454,6 @@ jtzam
 tqatiqch
 qatiq
 qatiq
-despwes
 qamaj
 chik
 jpach'uj
@@ -28760,7 +28542,6 @@ chik
 na
 qames
 bay
-despwes
 tb'entaj
 qupiis
 re
@@ -28804,7 +28585,6 @@ chik
 qaw
 re
 qasena
-despwes
 qixijchiki'
 qatzi
 qakoj
@@ -28842,12 +28622,10 @@ chik
 t'ok
 aq'ab'
 chik
-pwes
 tkanqach'aje'
 qlen
 qe
 chik
-despwes
 oj
 uxlan
 li
@@ -28865,7 +28643,6 @@ li
 ri'
 jun
 anm
-pwes
 ta'
 nad
 jcholajl
@@ -28957,16 +28734,13 @@ chikaman
 pinal
 neen
 moo
-pwes
 ójor
 taq
 tzij
-pwes
 kwand
 xink'iych
 iin
 oj
-pwes
 oj
 nuch'
 na
@@ -28994,7 +28768,6 @@ na
 xojkaan
 [echin]
 chuuch
-pwes
 ta'
 tikuwin
 tijloq'
@@ -29006,7 +28779,6 @@ nojeel
 q'iij
 tonses
 wiyn
-pwes
 ajnuch'
 na
 wi'
@@ -29019,7 +28791,6 @@ xinoku
 xinchakun
 chaq'
 jaa
-pwes
 ajki'
 inkwin
 re
@@ -29057,7 +28828,6 @@ li
 atintoja'n
 kom
 ójor
-pwes
 barat
 tojsaj
 jun
@@ -29176,7 +28946,6 @@ tinb'an
 qe
 li
 xink'iy
-despwes
 kwand
 xineel
 rk'il
@@ -29232,7 +29001,6 @@ li
 wi'
 laq
 k'áyb'al
-pwes
 win
 kwand
 xineel
@@ -29431,9 +29199,7 @@ tiniman
 jun
 kitz*
 iftziyi'n
-pwes
 tziyin
-pwes
 tziyin*
 nejb'anik
 rchoch
@@ -29455,10 +29221,8 @@ li
 []*
 if
 tzin
-pwes
 tziin
 ójor
-pwes
 kwando
 xinch'eb'a
 juwich
@@ -29541,7 +29305,6 @@ li
 xqach'ab'ej
 qib'
 rk'il
-despwes
 xtaw
 re
 jaa
@@ -29653,7 +29416,6 @@ jb'ijaq
 jurub'
 junb'aq
 ifa
-pwes
 wk'laal
 jb'ij
 tijk'is
@@ -30030,14 +29792,12 @@ mod
 oj
 woj
 oj
-pwes
 tyemp
 ljori
 kaari'n
 ta'
 ta'
 chaak
-pwes
 tb'ensaj
 laq
 laq
@@ -30133,7 +29893,6 @@ nmotx
 komo
 xinyol
 mir
-pwes
 ke
 tarey
 tqab'an
@@ -30222,7 +29981,6 @@ taq
 ójor
 taq
 kristyan
-pwes
 qachuuch
 qaqaaj
 ójor
@@ -30345,7 +30103,6 @@ bwen
 pixab'
 tijye'
 taq
-pwes
 porke
 oj
 li
@@ -30665,7 +30422,6 @@ li
 wi'
 adelant
 rechaq
-despwes
 ji'n
 xaq
 li
@@ -30675,7 +30431,6 @@ tonses
 ójor
 taq
 tzij
-pwes
 jili
 pinal
 kom
@@ -30685,7 +30440,6 @@ iin
 tinye'
 kwent
 rechaq
-pwes
 ójor
 taq
 kristyan
@@ -30774,7 +30528,6 @@ jwi'li'
 ri
 qaqaaj
 isigr
-pwes
 jwi'li'
 taq
 jnim
@@ -30864,7 +30617,6 @@ re
 ójor
 taq
 kristyan
-1741
 ri'
 lajorii
 ajwich
@@ -30883,7 +30635,6 @@ wi'
 neen
 qab'anik
 ljori
-pwes
 tijin
 oj
 kysan
@@ -30917,7 +30668,6 @@ jwich
 jwi'laq
 na
 jnon
-pwes
 re
 syempre
 inpet
@@ -30929,14 +30679,12 @@ pet
 li
 kila'
 pinal
-pwes
 syempr
 twil
 ke
 tinye'
 kwent
 rechaq
-pwes
 ke
 syempre
 k'isil
@@ -30951,7 +30699,6 @@ taq
 ljori
 tambyen
 ljori
-pwes
 wi'
 chiki'
 jun
@@ -30987,7 +30734,6 @@ taq
 chik
 juntir
 chik
-pwes
 ke
 ke
 tij
@@ -31082,7 +30828,6 @@ neen
 chiki'
 tinyol
 chik
-pwes
 entons
 tink'anwaaj
 chawech
@@ -31110,7 +30855,6 @@ waldey
 k'omo
 re
 dyoos
-pwes
 ke
 ta'
 tisach
@@ -31118,12 +30862,10 @@ jwich
 qayolj
 komoo
 lajori
-pwes
 ke
 k'is
 k'is
 qawinaq
-pwes
 ke
 tiyolow
 taq
@@ -31151,7 +30893,6 @@ qayolj
 chuchaq
 ri'
 li
-pwes
 grasyas
 adyoos
 ke
@@ -31163,7 +30904,6 @@ ta'an
 taq
 jun
 esjwers
-pwes
 ke
 ke
 ta'
@@ -31200,8 +30940,6 @@ li
 tqa
 k'anwaj
 chawch
-2015
-30/1/06
 ivlooq'
 chaq
 tayol
@@ -31229,7 +30967,6 @@ jun
 ra
 qa
 qajyub'l
-pwes
 wi'
 kib'
 uxib'
@@ -31791,7 +31528,6 @@ tqaya'
 man
 talb'art
 qusi'
-pwes
 ji'non
 tqa'an
 re
@@ -32286,7 +32022,6 @@ qanaan
 cha'
 taq
 tziyi'n
-pwes
 ooj
 kwin
 jchapik
@@ -32529,7 +32264,6 @@ qik'il
 xena
 jun
 ek'l
-despwes
 xen
 jun
 kwa'y
@@ -32672,8 +32406,6 @@ laq'aab'
 xaq
 li
 k'omo
-1120
-14/12/05
 pinula
 chamatun
 veintises
@@ -32895,7 +32627,6 @@ at
 chub'
 entons
 elamb'ik
-pwes
 ticha'
 nen
 tatok
@@ -33278,7 +33009,6 @@ medyabes
 kita'
 tijkoj
 dyoos
-pwes
 tiwa'kot
 laq
 b'e
@@ -33324,11 +33054,8 @@ aqui
 chipaj
 uspantán
 dia
-27
-2004
 avelino
 chamatun
-45
 alde
 hablante
 maya
@@ -33868,7 +33595,6 @@ jun
 ra
 mutzaj
 xmol
-pwes
 xok
 chij
 b'aqik
@@ -34047,12 +33773,10 @@ kinaq'
 xk'at
 ra
 kinaq'
-despwes
 ke
 xk'at
 ra
 kinaq'
-despwes
 xok
 chi
 b'iis
@@ -34077,14 +33801,12 @@ rik'il
 neen
 xata'
 aat
-pwes
 inxk'at
 inkinaq'
 cha'
 jurub'
 jb'aq'wich
 xatzek
-pwes
 job'
 jb'aq'wich
 noo
@@ -34190,7 +33912,6 @@ tra
 jut
 li
 ja'
-despwes
 tra
 juut
 xok
@@ -34251,7 +33972,6 @@ b'o'j
 re
 xtz'aqmaj
 xtz'aqmaj
-despwes
 neen
 la'
 xnek'b'ej
@@ -34434,7 +34154,6 @@ aat
 xat
 xatwa'x
 qik'il
-pwes
 lajori
 aat
 chaq
@@ -34574,10 +34293,9 @@ tich'opiin
 man
 wunaq
 baay
-desipwes
+desipues
 tititaw
 li
-despwes
 tresajch
 jun
 ra
@@ -34639,18 +34357,13 @@ lu
 jb'ij
 b'uuq
 lajori
-1152
-25/11/05
 gravación
 pinula
 chamatun
-47
 aca
 chipaj
 uspantán
 dia
-26
-2004
 eltema
 mandon
 okma
@@ -34707,7 +34420,6 @@ biyernes
 sabado
 alg
 chaq
-pwes
 per
 siyempr
 awas
@@ -34776,7 +34488,6 @@ rechaq
 cha'
 jo'
 taq
-pwes
 xk'am
 b'i
 kolob'
@@ -34822,7 +34533,6 @@ taq
 ta'
 titoj
 jq'iijaq
-pwes
 we
 k'ex
 man
@@ -35196,7 +34906,6 @@ xe'
 taq
 tonse
 jo'
-pwes
 kom
 tz'et
 tzik'
@@ -35668,7 +35377,6 @@ ooj
 ta'
 qapensar
 onli
-pwes
 ke
 ooj
 chakun
@@ -36187,12 +35895,10 @@ chawe
 ri'
 li
 xate'
-pwes
 kom
 ri'
 li
 xate
-pwes
 kom
 ta'
 atkojon
@@ -36207,7 +35913,6 @@ pores
 onli
 li
 xatromb'ejch
-pwes
 porke
 jwi'l
 aat
@@ -36227,7 +35932,6 @@ ta'
 xen
 wardar
 q'iij
-pwes
 sach
 b'i
 dyunabes
@@ -36337,7 +36041,6 @@ byeen
 ooj
 tqa
 ooj
-pwes
 xqila'
 ooj
 tqakoja'
@@ -36454,7 +36157,6 @@ pores
 tqa'ij
 ooj
 tz'eti'n
-pwes
 tijna'
 kastigar
 jun
@@ -36463,8 +36165,6 @@ tkojon
 jun
 xaq
 li
-1315
-17/1/06
 comunida
 chipaj
 uspantán
@@ -36472,13 +36172,8 @@ tovia
 se
 maya
 uspanteko
-11
-10
-20
-2004
 leandro
 chamatun
-47
 hablante
 maya
 uspanteko
@@ -39943,7 +39638,6 @@ li
 ta'
 re
 tinch'ob'
-tin
 inb'e'w
 nen
 tinb'an
@@ -39951,14 +39645,11 @@ xintaw
 kla'
 xinyol
 xinyol
-qa
 xinch'a'w
 laj
 qayólj
-xin
 ta'
 wetam
-tz
 iin
 inch'ekon
 kare'
@@ -40004,7 +39695,6 @@ xojyloow
 chub'
 chub'
 qitz'yeq
-ej
 nen
 ajchaak
 yaj
@@ -40040,13 +39730,11 @@ xijyole'
 taq
 chub'
 yaj
-yaj
 wunaq
 kita'
 tran
 taq
 ta'
-tj
 ta'
 tjye'
 taq
@@ -40116,7 +39804,6 @@ nin
 qa'an
 ooj
 ari
-rr
 qe
 ooj
 tqa'an
@@ -40180,7 +39867,6 @@ micaela
 túm
 lópez
 nari
-eeeh
 win
 laj
 tz'unun
@@ -40412,7 +40098,6 @@ xkam
 xkub'ar
 b'i
 ránm
-xin
 xinb'ijvr
 re
 xab'ij
@@ -40435,7 +40120,6 @@ tinchajaj
 insemilla
 xka
 jye'
-inpap
 inqaaj
 ri
 li
@@ -40453,13 +40137,11 @@ re
 cuand
 xkami
 re
-xka
 xkan
 jb'ij
 tawil
 achuuch
 achuuch
-chki
 cuand
 ta'
 chki
@@ -40586,7 +40268,6 @@ wi'
 jun
 inpena
 awri
-jun
 wi'
 jun
 wich'ixiik
@@ -40750,7 +40431,6 @@ ri
 li
 tqatzaq
 chirij
-qa
 ra
 qasaq
 kinaq'
@@ -40810,7 +40490,6 @@ tran
 jun
 qasaqmólb'
 leej
-pa
 tran
 paj
 ni'j
@@ -40907,7 +40586,6 @@ ji'
 laq
 uleew
 tya'saj
-ra
 ra
 qarikiil
 xijl
@@ -41031,7 +40709,6 @@ wk'an
 rik'ilaq
 iin
 xink'iysan
-rk'i
 rechaq
 xinchaakúnk
 xink'iysaj
@@ -41180,15 +40857,12 @@ nim
 kristyan
 chaq
 ji'n
-li
 ri
 li
-rrr
 qak'axk'oliil
 woj
 lajori
 innaan
-chaq
 chaq
 chaq
 oom
@@ -41315,7 +40989,6 @@ taq
 li
 kaxlan
 maya
-eh
 tik'amowaj
 taq
 re
@@ -41600,7 +41273,6 @@ com
 qe
 ooj
 ojyoloow
-ojyoloow
 jri
 qe
 ooj
@@ -41646,7 +41318,6 @@ tzi
 tsách
 qayólj
 ta'
-ta'
 tzi
 much
 kristyan
@@ -41657,7 +41328,6 @@ tiyoloow
 taq
 tch'ob'vr
 tqa
-ta'
 t'a
 tch'ob'
 jwiichaq
@@ -41835,7 +41505,6 @@ nooo
 che'
 ójr
 man
-ra
 wi'
 ójr
 alag
@@ -41897,7 +41566,6 @@ xchajaj
 taq
 man
 man
-man
 ka'n
 wi'
 jun
@@ -41928,7 +41596,6 @@ inmaam
 wi'
 jun
 jsok
-jun
 li
 jun
 b'ee
@@ -42015,7 +41682,6 @@ wi'
 jun
 eh
 rial
-jun
 wi'
 jun
 tz'ik
@@ -42052,7 +41718,6 @@ sii'
 re
 jlon
 xan
-eh
 maq
 ra
 saq
@@ -42303,7 +41968,6 @@ riqes
 b'abaal
 rechaq
 taq
-ahehah
 eh
 tekum
 uman
@@ -42943,7 +42607,6 @@ raj
 tb'i
 k'isb'en
 li
-lll
 ri'
 ta'
 utziil
@@ -43196,7 +42859,6 @@ re
 xtaqsaj
 b'ik
 eh
-q'ii
 tisaqar
 tiqeej
 tisaqar
@@ -43210,7 +42872,6 @@ jaa'
 eh
 t'ijb'elaj
 taqch
-b'e
 re
 xyol
 chqe
@@ -43312,7 +42973,6 @@ chee'
 xelch
 xelch
 man
-man
 ka'n
 xqax
 chi
@@ -43398,13 +43058,10 @@ ka'n
 eh
 eh
 tálvez
-tin
-til
 ta'
 ilan
 inwi'l
 tinwilin
-jun
 jun
 re
 k'achee'lajin
@@ -43562,7 +43219,6 @@ b'ik
 xril
 re
 re
-man
 ri'
 man
 ka'n
@@ -43910,7 +43566,6 @@ neri
 tjche'
 re
 chqe
-jun
 galan
 ánom
 rilik
@@ -44137,7 +43792,6 @@ rij
 ma
 ánom
 ta'
-ta'
 tawil
 taq
 man
@@ -44315,7 +43969,6 @@ jori
 woj
 chaq
 xijl
-wi
 wi'
 xqesaj
 rk'il
@@ -44572,7 +44225,6 @@ atink'am
 b'i
 ri
 jun
-jun
 lúwr
 ta'
 ilan
@@ -44657,7 +44309,6 @@ wi'
 nik'
 atz'yaq
 kla'
-jun
 junoq
 jun
 kristyan
@@ -44963,7 +44614,6 @@ kita'
 tjb'ij
 re
 ta'
-xch
 re
 re
 kita'
@@ -45019,7 +44669,6 @@ txukar
 tjk'am
 ra
 ra
-ra
 rija'
 rijaj
 tjk'am
@@ -45045,7 +44694,6 @@ re
 re
 tjk'am
 b'i
-ra
 ra
 rijaj
 cond
@@ -45234,7 +44882,6 @@ ejwi'l
 b'aka
 ójr
 wi'
-ra
 wi'
 jun
 ra
@@ -45360,7 +45007,6 @@ k'omo
 re
 ra
 ra
-ra
 jiib'
 li
 tre
@@ -45370,7 +45016,6 @@ jun
 ttaw
 kla'
 we
-ra
 ra
 jiib'
 li
@@ -45385,7 +45030,6 @@ ojb'e
 kla'
 ta'
 qetam
-nen
 nen
 chak
 ra
@@ -45413,7 +45057,6 @@ bonit
 rilikaq
 qusi'
 rilikaq
-wi'
 wi'
 wi'
 wi
@@ -45458,7 +45101,6 @@ fuert
 tpe
 nimq'iij
 eeeh
-jun
 wi'
 jun
 jun
@@ -45541,7 +45183,6 @@ re
 tresaj
 taq
 man
-man
 ra
 xjooj
 cambio
@@ -45558,7 +45199,6 @@ ta'
 qus
 twil
 como
-eh
 eh
 eeh
 juntiir
@@ -45582,7 +45222,6 @@ taq
 tran
 taq
 raj
-tij
 tij
 k'iysaj
 taq
@@ -45760,7 +45399,6 @@ vaaa
 talvez
 chki
 na
-fut
 k'is
 nen
 k'is
@@ -45816,7 +45454,6 @@ dificil
 eeh
 toces
 eeeh
-piens
 ri'
 qe
 li
@@ -46017,7 +45654,6 @@ interes
 re
 ajtilmitaq
 aahh
-progr
 interes
 jun
 tilmit
@@ -46048,7 +45684,6 @@ maq
 jaa
 tb'ansaj
 jaa
-maq
 maq
 ab'aj
 ah
@@ -46140,7 +45775,6 @@ xink'iy
 xink'iy
 neri
 ah
-xin
 xink'uli'ch
 b'i
 xinb'e
@@ -46187,7 +45821,6 @@ jwiich
 jpart
 inpapá
 eh
-li
 re
 xkamk
 jiqlon
@@ -46463,7 +46096,6 @@ ah
 xojwa'x
 neri
 iin
-xoj
 inmamá
 xojkan
 ooj
@@ -46533,7 +46165,6 @@ twa'xw
 jlon
 li
 tjiin
-oj
 wojvr
 lajori
 inqaaj
@@ -46557,7 +46188,6 @@ wi'
 maq
 wech'elxiik
 wi'
-jun
 jun
 jproblemaq
 re
@@ -46916,7 +46546,6 @@ taq
 riw
 wi'
 k'axk'oliil
-lilaj
 laj
 rchoochaq
 ri
@@ -47499,7 +47128,6 @@ eeeh
 lojori
 tanb'ij
 ma
-ma
 ta'n
 eeeh
 k'etz'an
@@ -47507,12 +47135,10 @@ inmaam
 xkan
 jk'ute'
 taqatik
-ab'
 ab'iix
 kinaq'
 kutz'ii'j
 kutz'ii'j
-ta'
 ta'
 tya'
 neri
@@ -47564,7 +47190,6 @@ ri
 wi'
 jun
 uleew
-ehhaparte
 re
 tqa
 tqachaqrsaj
@@ -47617,7 +47242,6 @@ tqab'ana
 tra
 b'o'j
 re
-re
 tqak'ayaj
 jlon
 jlon
@@ -47659,7 +47283,6 @@ ji'
 wi'
 inkarnervr
 ra
-ra
 majad
 tiya'w
 taqatzaq
@@ -47699,7 +47322,6 @@ inmaam
 chqe
 como
 ta'
-nin
 nin
 tran
 tchap
@@ -47822,7 +47444,6 @@ chqe
 eh
 chwaj
 eh
-tin
 eh
 tinyol
 chawechaq
@@ -47841,7 +47462,6 @@ tjta'
 na
 re
 ajaw
-le'w
 we
 looq'
 tjkat
@@ -48429,7 +48049,6 @@ tsách
 qayólj
 tsách
 eh
-nej
 eh
 qab'antájk
 laj
@@ -48702,7 +48321,6 @@ taq
 ta'
 k'ax
 jta'ik
-ra
 ra
 qakomoon
 jlon
@@ -49061,7 +48679,6 @@ tiit'
 ri
 li
 inkikótk
-tre
 tjin
 tretamaj
 taq
@@ -49214,7 +48831,6 @@ b'i
 xk'am
 b'i
 ri
-ri
 ra
 ab'aj
 per
@@ -49269,7 +48885,6 @@ jun
 sill
 jun
 wi'
-junwi'
 jun
 ra
 ab'aj
@@ -49340,7 +48955,6 @@ chqe
 jinoli
 xyasaji
 cuent
-lmas
 lmas
 nemo
 x'eel
@@ -49447,7 +49061,6 @@ maq
 b'aaq'
 tuul
 taq
-maq
 maq
 maq
 tb'ansaj
@@ -49640,7 +49253,6 @@ jcostumbre
 eh
 wikan
 iin
-xtyu
 xwilin
 kin
 wikan
@@ -49673,7 +49285,6 @@ jb'anik
 li
 wi'
 wi'
-wi'
 jkarnervr
 como
 re
@@ -49691,7 +49302,6 @@ ajsokal
 re
 karnervr
 tb'ansaj
-b'aaq
 b'aaq'
 tuul
 maq
@@ -49711,7 +49321,6 @@ riij
 karnervr
 b'ay
 taw
-tp
 tiya'saj
 jwaa'aq
 ajsok
@@ -49802,7 +49411,6 @@ eh
 b'an
 jli
 minerva
-11
 mixco
 eh
 eh
@@ -49859,7 +49467,6 @@ eh
 xink'ise'
 insexto
 jli
-15
 intwil
 jaa
 wi'
@@ -50170,7 +49777,6 @@ tran
 taq
 jwk'il
 eh
-ta
 tran
 taq
 wa'
@@ -50302,7 +49908,6 @@ k'is
 eh
 k'ojol
 taq
-q'ojol
 q'opoj
 taq
 ánm
@@ -50362,7 +49967,6 @@ ri
 qayólj
 ari
 ri
-qa
 qa
 qitz'iiq
 tqakoj
@@ -50537,7 +50141,6 @@ b'ijk
 re
 k'is
 ánm
-ta'
 jchomsaj
 nen
 tran
@@ -50603,7 +50206,6 @@ ooj
 ta'
 chki'
 tqab'an
-tx
 xne'tasajoq
 eh
 tkojsaj
@@ -51028,7 +50630,6 @@ kristyan
 ojchkun
 jli;
 wi'
-qa
 ojchaakun
 wi'l
 oj'etz'an
@@ -51043,7 +50644,6 @@ tqatik
 eeh
 nojel
 qleen
-tq
 tqab'an
 rik'il
 ék'l
@@ -51084,7 +50684,6 @@ tra
 ék'l
 tsak'jaj
 ojchaakun
-despues
 ojchaakun
 rik'il
 eeh
@@ -51952,7 +51551,6 @@ chawechaq
 xojasik'ij
 taq
 li
-jun
 jun
 jun
 komoon
@@ -53334,9 +52932,7 @@ ojki'kot
 ajyo'l
 inchuuch
 qk'il
-sie
 eh
-jun
 jun
 joob'
 junab'
@@ -53474,7 +53070,6 @@ li
 eh
 ta'
 transaj
-tat
 tat
 ta'
 ojatin
@@ -53742,7 +53337,6 @@ q'iij
 tijtije'
 taq
 k'is
-eeeh
 qleen
 chub'
 jkomnaqib'aq
@@ -53773,7 +53367,6 @@ man
 li
 tran
 taq
-eeeeh
 eh
 tran
 taq
@@ -53797,7 +53390,6 @@ eh
 k'is
 taw
 taq
-inwo
 maq
 watz
 k'is
@@ -54133,7 +53725,6 @@ xijta'
 taq
 com
 juert
-xij
 xijq'asajch
 taq
 neri
@@ -54161,11 +53752,9 @@ re
 trile'
 tran
 nimq'iij
-ent
 xkan
 xijye'
 taq
-re
 re
 chq'asaj
 taq
@@ -54247,7 +53836,6 @@ jori
 ooj
 ojq'opoj
 ánm
-wi'
 wi'
 chaq
 qa

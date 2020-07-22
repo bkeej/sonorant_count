@@ -12,7 +12,10 @@ def igtxml_get_words(dir,xmlfile):
 		word_list = []
 
 		for phrase in root.findall('./body/phrases/phrase'):
+
 			word_list = word_list + phrase.findall('word')
+
+		word_list = [x.get('text') for x in word_list]
 
 	return word_list
 
@@ -55,8 +58,6 @@ def main():
 
 		words = words + elan_get_words(narrative_dir, file)
 
-	words = [x.get('text') for x in words]
-
 	words = [x.lower() for x in words]
 
 	words = list(filter(lambda w: "<" not in w, words))
@@ -65,13 +66,13 @@ def main():
 
 	words = [''.join(list(filter(lambda ch: ch not in " :+.!¡¿?-,<,>,(,),_,0,1,2,3,4,5,6,7,8,9,/,\\", x))) for x in words]
 
-	words = [x.replace('ã³', 'ó')]
+	words = [x.replace('ã³', '\u00F3') for x in words]
 
-	words = [x.replace('ã±', 'ñ')]	
+	words = [x.replace('ã±', '\u00F1') for x in words]	
 
-	words = [x.replace('ã', 'á')]
+	words = [x.replace('ã', '\u00E1') for x in words]
 
-	words = [x.replace('pwes', pues)]
+	words = [x.replace('pwes', 'pues') for x in words]
 
 	print('Total words:', len(words))
 
