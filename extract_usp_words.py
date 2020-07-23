@@ -84,7 +84,7 @@ def main():
 
 	print('Non-borrowings:', len(words))
 
-	with open('uspanteko_words.txt', 'w') as outfile:
+	with open('uspanteko_words_just_B+H.txt', 'w') as outfile:
 		for w in words:
 			outfile.write(w + '\n')
 
