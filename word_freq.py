@@ -2,8 +2,11 @@ import os
 import csv 
 from collections import defaultdict
 
-corpus = 'uspanteko_words_just_B+H.txt'
-outfile = 'usp_word_freq_just_B+H.csv'
+import pylab
+import matplotlib.pyplot as plt
+
+corpus = 'uspanteko_words.txt'
+outfile = 'usp_word_freq.csv'
 
 def def_value(): 
     return False
@@ -21,3 +24,22 @@ with open(corpus, "r") as infile:
 with open(outfile, "w") as f:
 	wri = csv.writer(f)
 	wri.writerows(d.items())
+
+
+# plotting the frequency data as a sanity check
+
+a = list(d.values())
+
+a.sort(reverse=True)
+
+print(a)
+
+fig = plt.figure()
+ax = fig.add_subplot(2, 1, 1)
+
+line, = ax.plot(a, color='blue', lw=2)
+
+ax.set_yscale('log')
+ax.set_xscale('log')
+
+pylab.show()
