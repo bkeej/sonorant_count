@@ -1,6 +1,10 @@
 import os
 import csv 
 
+# Unigraphs: [ p t k q s x j ' ]
+# Bigraphs: [ b' t' k' q' tz ch ]
+# Trigraphs: [ tz' ch' ]
+
 sonorants = 'lmnwyr'
 vowels = 'ieaou'
 
