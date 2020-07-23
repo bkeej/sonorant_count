@@ -1,0 +1,15 @@
+
+Average sonorants per unique word: 1.2053703493002617 
+
+Average characters per unique word: 8.665604733189214 
+
+Average non-vowel characters per unique word: 6.385936966662874 
+
+-----------------
+
+Average sonorants per word: 0.9493612411991462 
+
+Average characters per word: 5.1274013189333845 
+
+Average non-vowel characters per word: 3.4287648539297204 
+
