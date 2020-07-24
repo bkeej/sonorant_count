@@ -30,30 +30,61 @@ with open(csvcorpus) as f:
 			badcount += 1
 		else:
 			w = ''.join(list(filter(lambda ch: ch not in '.', w)))
-			counts.append([len(w), len(''.join(list(filter(lambda ch: ch in sonorants, w)))), len(''.join(list(filter(lambda ch: ch not in vowels, w))))])
+			counts.append(
+				[len(w), 
+				len(''.join(list(filter(lambda ch: ch in sonorants, w)))), 
+				len(''.join(list(filter(lambda ch: ch not in vowels, w)))),
+				len(''.join(list(filter(lambda ch: ch in vowels, w)))),
+				len(''.join(list(filter(lambda ch: ch in obstruents, w))))])
 
 print('number of words:', len(counts), '\n')
+
 print('number of word with formatting problems:', badcount, '\n')
 
 print('Average sonorants per unique word:', sum([x[1] for x in counts]) / len(counts), '\n')
 
-print('Average characters per unique word:', sum([x[0] for x in counts]) / len(counts), '\n')
+print('Average segments per unique word:', sum([x[0] for x in counts]) / len(counts), '\n')
 
-print('Average non-vowel characters per unique word:', sum([x[2] for x in counts]) / len(counts), '\n')
+print('Average non-vowel segments per unique word:', sum([x[2] for x in counts]) / len(counts), '\n')
+
+print('Raw count of sonorants:', sum([x[1] for x in counts]), '\n')
+print('Raw count of vowels:', sum([x[3] for x in counts]),'\n')
+print('Raw count of obstruents:', sum([x[4] for x in counts]),'\n')
+print('Words containings only sonorants:','\n')
 
 print('-----------------\n')
 
+counts = []
+
 with open(corpus) as f:
+	badcount = 0
 	for w in f:
 		w = w.strip()
-		counts.append([len(w), len(''.join([''.join(list(filter(lambda ch: ch in sonorants, x))) for x in w])), len(''.join([''.join(list(filter(lambda ch: ch not in vowels, x))) for x in w]))])
+		try:
+			w = g2p([w], delim=".")[0][1][0] #translate to IPA using g2p module
+		except TypeError:
+			# print(w, 'bad characters')
+			badcount += 1
+		else:
+			w = ''.join(list(filter(lambda ch: ch not in '.', w)))
+			counts.append(
+				[len(w), 
+				len(''.join(list(filter(lambda ch: ch in sonorants, w)))), 
+				len(''.join(list(filter(lambda ch: ch not in vowels, w)))),
+				len(''.join(list(filter(lambda ch: ch in vowels, w)))),
+				len(''.join(list(filter(lambda ch: ch in obstruents, w))))])
 
 print('number of words:', len(counts), '\n')
 
+print('number of word with formatting problems:', badcount, '\n')
+
 print('Average sonorants per word:', sum([x[1] for x in counts]) / len(counts), '\n')
 
-print('Average characters per word:', sum([x[0] for x in counts]) / len(counts), '\n')
+print('Average segments per word:', sum([x[0] for x in counts]) / len(counts), '\n')
 
-print('Average non-vowel characters per word:', sum([x[2] for x in counts]) / len(counts), '\n')
+print('Average non-vowel segments per word:', sum([x[2] for x in counts]) / len(counts), '\n')
 
-
+print('Raw count of sonorants:', sum([x[1] for x in counts]), '\n')
+print('Raw count of vowels:', sum([x[3] for x in counts]),'\n')
+print('Raw count of obstruents:', sum([x[4] for x in counts]),'\n')
+print('Words containings only sonorants:','\n')

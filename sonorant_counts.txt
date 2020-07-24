@@ -1,15 +1,38 @@
+number of words: 8667 
 
-Average sonorants per unique word: 1.2053703493002617 
+number of word with formatting problems: 122 
 
-Average characters per unique word: 8.665604733189214 
+Average sonorants per unique word: 1.1001499942309911 
 
-Average non-vowel characters per unique word: 6.385936966662874 
+Average segments per unique word: 6.6592823352947965 
+
+Average non-vowel segments per unique word: 4.38133148725049 
+
+Raw count of sonorants: 9535 
+
+Raw count of vowels: 19743 
+
+Raw count of obstruents: 26181 
+
+Words containings only sonorants: 
 
 -----------------
 
-Average sonorants per word: 0.9493612411991462 
+number of words: 53856 
 
-Average characters per word: 5.1274013189333845 
+number of word with formatting problems: 133 
 
-Average non-vowel characters per word: 3.4287648539297204 
+Average sonorants per word: 0.8541852346999406 
+
+Average segments per word: 4.626355466428996 
+
+Average non-vowel segments per word: 3.0263294711824122 
+
+Raw count of sonorants: 46003 
+
+Raw count of vowels: 86171 
+
+Raw count of obstruents: 109626 
+
+Words containings only sonorants: 
 
