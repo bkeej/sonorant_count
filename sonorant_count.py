@@ -1,5 +1,10 @@
 import os
 import csv 
+import sys
+
+sys.path.insert(1, '../uspanteko-g2p')
+
+from uspanteko_g2p import *
 
 # Unigraphs: [ p t k q s x j ' ]
 # Bigraphs: [ b' t' k' q' tz ch ]
@@ -37,4 +42,6 @@ print('Average sonorants per word:', sum([x[1] for x in counts]) / len(counts), 
 print('Average characters per word:', sum([x[0] for x in counts]) / len(counts), '\n')
 
 print('Average non-vowel characters per word:', sum([x[2] for x in counts]) / len(counts), '\n')
+
+print(g2p(['ánm'], delim = '.'))
 
