@@ -6,6 +6,8 @@ number of word with formatting problems: 133
 
 Average sonorants per word: 0.8541852346999406 
 
+Average obstruents per word: 2.0355392156862746 
+
 Average segments per word: 4.626355466428996 
 
 Average non-vowel segments per word: 2.995766488413547 
@@ -27,6 +29,8 @@ number of words: 8667
 number of word with formatting problems: 122 
 
 Average sonorants per unique word: 1.1001499942309911 
+
+Average obstruents per unique word: 3.0207684319833854 
 
 Average segments per unique word: 6.6592823352947965 
 

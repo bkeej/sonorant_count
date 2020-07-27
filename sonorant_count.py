@@ -46,6 +46,8 @@ print('number of word with formatting problems:', badcount, '\n')
 
 print('Average sonorants per word:', sum([x[1] for x in counts]) / len(counts), '\n')
 
+print('Average obstruents per word:', sum([x[4] for x in counts]) / len(counts), '\n')
+
 print('Average segments per word:', sum([x[0] for x in counts]) / len(counts), '\n')
 
 print('Average non-vowel segments per word:', sum([x[2] for x in counts]) / len(counts), '\n')
@@ -85,6 +87,8 @@ print('number of words:', len(counts), '\n')
 print('number of word with formatting problems:', badcount, '\n')
 
 print('Average sonorants per unique word:', sum([x[1] for x in counts]) / len(counts), '\n')
+
+print('Average obstruents per unique word:', sum([x[4] for x in counts]) / len(counts), '\n')
 
 print('Average segments per unique word:', sum([x[0] for x in counts]) / len(counts), '\n')
 
